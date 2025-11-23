@@ -295,13 +295,16 @@ Response:
 
 ## 8. 개발 우선순위
 
+
 ### Phase 1: 기본 인프라 (Week 1-2)
+
 - [ ] FastAPI 서버 구축
 - [ ] OpenRouter API 연동
 - [ ] Supabase 설정 및 스키마 생성
 - [ ] 기본 API 엔드포인트 구현
 
-### Phase 2: VLM 엔진 (Week 2-3)
+### Phase 2: VLM 엔진
+
 - [ ] 스크린샷 캡처 및 전처리
 - [ ] VLM 이미지 분석 파이프라인
 - [ ] 액션 추론 로직
